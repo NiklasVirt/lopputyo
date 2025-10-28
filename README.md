@@ -1,0 +1,1 @@
+# Ohjelmointivälineet ja versionhallinta -opintojakson lopputyön tavoitteena on harjoitella gitin komentorivikäyttöä ja hallita versionhallinnan jatkotoiminnot, kuten stash, revert, rebase ja cherry-pick
