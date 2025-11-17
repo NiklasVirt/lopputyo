@@ -1,1 +1,3 @@
+Lopputyö Niklas Virtanen, opiskelijanro. 2408442
+
 Käytin lopputyössä seuraavia komentoja: echo, add, commit, branch, checkout, push, pull, stash, revert, rebase ja yritin cherry-pickiä. Eri vaiheissa tuli ongelmia joko oikeiden komentojen muistamisen kanssa ja niiden käytössä oikeassa järjestyksessä. Hyödynsin työssä luentokalvoja sekä erilaisia nettisivustoja, kuten stack overflow. Opin ymmärtämään versionhallinnan tärkeyden ja siihen tarvittavien komentojen käytön. Lisäksi sain paremmin kiinni terminaalin käytöstä. Työ oli toisinaan hyvin haastava, mutta tekemällä virheitä ja selvittämällä asioita ulkoisista lähteistä sekä luentomateriaaleista sain mielestäni riittävän käsityksen kaikista työn vaiheista ja opintojaksoilla käsitellyistä asioista.
